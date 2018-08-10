@@ -18,5 +18,5 @@
     "webpack": "^4.16.5",
     "webpack-command": "^0.4.1"
   },
-  "homepage": "https://flo-l.github.io/<project-repo>"
+  "homepage": "https://flo-l.github.io/react-tictactoe"
 }
